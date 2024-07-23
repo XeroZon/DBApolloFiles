@@ -1,0 +1,8 @@
+name:1.2.5 (GT) Community Survey Link
+link:https://forms.gle/ZDYftzHzdqT2JuwD7
+~001=Inventory & Zeni Transfer across servers, we've thought up a few ways to handle this and have come to the conclusion that the best and safest route of merging these is to implement a form of global storage similar to a ender chest however all your characters (your account) would be able to access it on any server, through a command and possibly a location / npc.
+-I Agree=I don't Care=I disagree
+~002=Yip yip yap
+-I Agree=I don't Care=I disagree
+~003=Do you like capybaras?
+-I Agree=I don't Care=I disagree

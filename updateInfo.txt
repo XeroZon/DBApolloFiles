@@ -1,0 +1,40 @@
+[Event] 4th Year Anniversary (2024) - Jul 21st > Aug 6th
+[1.2.7] Movie Pack #3 Update - August 2024
+[Event] Summer Festival 2024 - Jun  30th > Jul
+[Event] Easter 2024 - Apr 1st > Apr 15th
+[Event] Valentines 2024 - Feb 12th > Feb 20th
+[Event] Jolly 2023 - Dec 23rd > Jan 16th
+[Event] SpookFest 2023 - Oct 26th > Nov 11th
+[Event] BDay Event 2023 - Sep 22nd > Sep 29th
+[Event] Summer Festival 2023 - Jul 15th > Aug
+[Event] 3rd Year Anniversary (2023) - Jun 30th > Jul 15th
+[Event] Easter 2023 - Apr 11th > Apr 24th
+[Event] Valentines 2023 - Feb 15th > Feb 22nd
+[Event] Jolly 2022 - Dec 24th > Jan 15th
+[Event] SpookFest 2022 - Oct 30th > Nov 17th
+[Event] BDay Event 2022 - Sep 23rd > Sep 28th
+[Patch] 1.2.6b Patch - October 7th, 2022
+[Patch] 1.2.6 Patch - August 26th, 2022
+[Event] GT Event - August 1st > August 11th
+[Event] 1.2.5 Event - July 11th > July 21st
+[Expansion] Dragon Ball GT - July 11th, 2022
+[1.2.5] GT Update - July 11th, 2022
+[Event] Jolly 2021 - Dec 18th > Jan 9th
+[Event] SpookFest 2021 - Oct 23rd > Nov 6th
+[Event] BDay Event 2021 - Sep 23rd > Sep 28th
+[Patch] 1.2.4 Patch - July 26th, 2021
+[1.2.3] Universe 6 Update - July 14th, 2021
+[Event] Spring Festival - Apr 30th > May 3rd
+[Event] The Revival Festival - Mar 9th > Mar 24th
+[Patch] 1.2.2 Patch - April 18th, 2021
+[Patch] 1.2.1 Patch - March 18th, 2021
+[1.2] Revival of Frieza Update - March 8th, 2021
+[Event] Jolly 2020 - Dec 20th > Jan 6th 
+[Event] thankgiving 2020 - Nov 27th > Dec 1st 
+[Expansion] MP #2 - November 19th, 2020 
+[Event] SpookFest 2020 - Oct 31st > Nov 16th
+[Event] BoG Celebration - Sep 29th > Oct 13th 
+[1.1] Battle of Gods Update - September 29th, 2020 
+[Expansion] MP #1 - September 13th, 2020
+[Patch] 1.0.6 Patch - August 9th, 2020
+[1.0] Release - July 1st, 2020
