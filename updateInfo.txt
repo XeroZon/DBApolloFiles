@@ -1,4 +1,5 @@
-[1.2.7] Movie Pack #3 Update - September 20th, 2024
+[Expansion] Movie Pack #3 - October 22nd, 2024
+[1.2.7] MP3 Update - October 22nd, 2024
 [Event] 4th Year Anniversary (2024) - Jul 21st > Aug 6th
 [Event] Summer Festival 2024 - Jun  30th > Jul
 [Event] Easter 2024 - Apr 1st > Apr 15th
@@ -31,10 +32,10 @@
 [1.2] Revival of Frieza Update - March 8th, 2021
 [Event] Jolly 2020 - Dec 20th > Jan 6th 
 [Event] thankgiving 2020 - Nov 27th > Dec 1st 
-[Expansion] MP #2 - November 19th, 2020 
+[Expansion] Movie Pack #2 - November 19th, 2020 
 [Event] SpookFest 2020 - Oct 31st > Nov 16th
 [Event] BoG Celebration - Sep 29th > Oct 13th 
 [1.1] Battle of Gods Update - September 29th, 2020 
-[Expansion] MP #1 - September 13th, 2020
+[Expansion] Movie Pack #1 - September 13th, 2020
 [Patch] 1.0.6 Patch - August 9th, 2020
 [1.0] Release - July 1st, 2020
