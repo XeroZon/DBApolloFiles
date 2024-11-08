@@ -1,3 +1,4 @@
-Build #52~Detail~Detail2
-Build #51~Detail~Detail2~Detail3~Detail4
-Build #50 (Release)~Detail~Detail2~Detail3
+Build #53~Added this Interface Element~Might fix another thing or two, depends how I feel that day. TBH.
+Build #52~Vanity Outfit ReTextures~Fusion Fixes~Global Chest Fixes
+Build #51~Mastery EXP Loss Fixed~Character Slot Bug Fixes~Database Optimization
+1.2.7 Update~Movie Pack #3~Too much to list~Full Change-Log soon to follow
