@@ -1,6 +1,6 @@
 v1.2.7.b52
 ~
-Build #53 | 11/12/2024~Added this Interface Element~Might fix another thing or two, depends how I feel that day. TBH.
+Build #53 | 11/12/2024~Added this Interface Element
 Build #52 | 11/06/2024~Vanity Outfit ReTextures~Fusion Fixes~Global Chest Fixes
 Build #51 | 10/25/2024~Mastery EXP Loss Fixed~Character Slot Bug Fixes~Database Optimization
 1.2.7 Update | 10/22/2024~Movie Pack #3~Too much to list~Full Change-Log soon to follow
