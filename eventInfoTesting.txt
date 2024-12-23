@@ -1,4 +1,4 @@
-1.25
-spook,1-6
 1.0
-SpookFest 2024,1.2.7 Release
+none,1-6
+1.0
+None,SpookFest 2024
