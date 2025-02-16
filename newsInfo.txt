@@ -1,3 +1,7 @@
+Animated Combat & Character (Combat Demo 04)
+ (February 15th, 2025)
+https://youtu.be/R9iULpGa5To
+
 Animated Ki Wave Firing (Combat Demo 03)
  (January 26th, 2025)
 https://youtu.be/699g0Y5AyXA
@@ -106,19 +110,19 @@ Farewell Frustrating Grind, Hello Smooth Grind - Dev log #23 (Video)
 https://youtu.be/RasDupjFOSA
 
 "Where's the 1.2.7 Update at?" (Video)
- (Feburary 29th, 2024)
+ (February 29th, 2024)
 https://youtu.be/5wLCcMmiZ84
 
 Cross-Server Ender Chest & Crates Rework - Dev log #22 (Video)
- (Feburary 28th, 2024)
+ (February 28th, 2024)
 https://youtu.be/y_Mbwgz6cl4
 
 Whis & Primal Training Changes - Feature Highlight #05 (Teaser)
- (Feburary 26th, 2024)
+ (February 26th, 2024)
 https://twitter.com/MCApolloNetwork/status/1762186523280035847
 
 Valentines 2024 (Event)
- (Feburary 12th, 2024)
+ (February 12th, 2024)
 - 20% TP Booster
 - 20% Store Sale
 - Valentines System
@@ -127,7 +131,7 @@ Valentines 2024 (Event)
 - All new Valentines Particles
 
 Big Changes to Armor Stats - Feature Highlight #04 (Teaser)
- (Feburary 6th, 2024)
+ (February 6th, 2024)
 https://twitter.com/MCApolloNetwork/status/1754966982623993901
 
 New Visual Waypoints system - Feature Highlight #03 (Teaser)
@@ -227,7 +231,7 @@ A Brand New Health Bar - Dev log #18 (Video)
 https://youtu.be/thXu0PGyZ94
 
 Valentines 2023 (Event)
- (Feburary 15th, 2023)
+ (February 15th, 2023)
 - 20% TP Booster
 - 20% Store Sale
 - Valentines System
