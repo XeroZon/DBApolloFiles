@@ -2,3 +2,4 @@
 none,1-6
 1.0
 No Event,SpookFest 2024
+1.0
