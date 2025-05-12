@@ -1,5 +1,6 @@
-v1.2.7.b53
+v1.2.8.b54
 ~
+1.2.8 Patch | 05/12/2025~Challenger Luck Boost~Playtime System (OnTime replacement)~Gear Coin Drop Changes~Quick Selection Changes~New "Context" Menu~Shift Stack Consumption~Character Slot Selection Screen~Tons of Misc Changes & Fixes
 Build #53 | 12/06/2024~SpookFest 2024 (Winterween)~First Person Hand Fix~Packet Fixes~Added this Interface Element
 Build #52 | 11/06/2024~Vanity Outfit ReTextures~Fusion Fixes~Global Chest Fixes
 Build #51 | 10/25/2024~Mastery EXP Loss Fixed~Character Slot Bug Fixes~Database Optimization
