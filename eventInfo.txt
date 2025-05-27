@@ -1,5 +1,5 @@
-1.2
+1.0
 none,1-6
 1.0
-Easter 2025,SpookFest 2024
-1.25
+none,Easter 2025
+1.0
