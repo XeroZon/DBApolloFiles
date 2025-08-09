@@ -1,5 +1,5 @@
-1.3
+1.0
 none,1-6
 1.0
-5 Year Anv,Easter 2025
-1.3
+none,5 Year Anv
+1.0
