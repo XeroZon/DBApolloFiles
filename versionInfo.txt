@@ -1,5 +1,6 @@
 v1.2.8.b56
 ~
+Build #56 | 08/11/2025~Character Creation Stat Loss Fix~Potential Server Wide Transformation Fix~General Fixes & CleanUp
 Build #55 | 05/22/2025~New Server Restart System~Playtime System Polish~Quick Selection Fixes~General Fixes
 1.2.8 Patch | 05/12/2025~Challenger Luck Boost~Playtime System (OnTime replacement)~Gear Coin Drop Changes~Quick Selection Changes~New "Context" Menu~Shift Stack Consumption~Character Slot Selection Screen~Tons of Misc Changes & Fixes
 Build #53 | 12/06/2024~SpookFest 2024 (Winterween)~First Person Hand Fix~Packet Fixes~Added this Interface Element
