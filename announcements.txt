@@ -1,0 +1,10 @@
+1~&b[Announcement] &6You can receive rewards for voting for our server with /vote!
+1~&b[Announcement] &6You can claim your daily reward with &e/giftbox &6this will reset at 0:00 utc everyday
+1~&b[Announcement] &6Doing Daily Missions is a great way to earn vouchers! &7/warp dailymissions
+1~&b[Announcement] &6If you are interested in applying for staff you can apply on our discord (3 days ontime required)
+1~&b[Announcement] &aIf you would like to support the Server you can here: &ehttps://bit.ly/ApolloMCStore
+1~&b[Announcement] &aIf you want some Perks from Donating you can receive them here: &ehttps://bit.ly/ApolloMCStore
+1~&b[Announcement] &aYou can purchase Titles, Crate Tokens, and Reincarnate Tokens on our store here: &ehttps://bit.ly/ApolloMCStore
+2~&b[Announcement] &6Make sure to join our discord to get the latest news! &ddiscord.com/invite/ppaYPCA
+1~&b[Recruiting] &e&lWe are recruiting for the Developement Team, Testers, Builders, and Designers! &7- &aContact us on Discord
+1~&b[Announcement] &eTrailer for 1.2.7 / Movie Pack #3 Update - &bhttps://youtu.be/VHy7Ybg-F3o
