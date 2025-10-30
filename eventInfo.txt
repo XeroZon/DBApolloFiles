@@ -1,5 +1,5 @@
+1.25
+spook,1-6
 1.0
-none,1-6
-1.0
-No Event,5 Year Anv
-1.0
+SpookFest 2025,5 Year Anv
+1.25
