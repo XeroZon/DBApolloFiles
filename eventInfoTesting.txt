@@ -1,5 +1,5 @@
 1.0
-none,1-6
+None,1-6
 1.0
-none,SpookFest 2025
+None,SpookFest 2025
 1.0
