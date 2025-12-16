@@ -1,6 +1,8 @@
-v1.2.8.b56
+v1.2.9.b58
 ~
-Build 99 | 08/11/2025~meow~meow~meow
+1.2.9 Patch | 12/17/2025~Sky Boxes~Global Chat~New Player List~Quick Selection Fast Ascend~Bank Shift Click~CC Gradient Hairs~Recovery Item Restock Button~New Mall Stores (Namek, Rocky, Nether)
+SpookFest 2025 | 10/29/2025~Spook Fest 2025 Event! Check the News Menu or Discord for details!
+Build #57 | 08/22/2025~Fix for Character Creation Stat Loss (Required)
 Build #56 | 08/11/2025~Character Creation Stat Loss Fix~Potential Server Wide Transformation Fix~General Fixes & CleanUp
 Build #55 | 05/22/2025~New Server Restart System~Playtime System Polish~Quick Selection Fixes~General Fixes
 1.2.8 Patch | 05/12/2025~Challenger Luck Boost~Playtime System (OnTime replacement)~Gear Coin Drop Changes~Quick Selection Changes~New "Context" Menu~Shift Stack Consumption~Character Slot Selection Screen~Tons of Misc Changes & Fixes
@@ -9,11 +11,12 @@ Build #52 | 11/06/2024~Vanity Outfit ReTextures~Fusion Fixes~Global Chest Fixes
 Build #51 | 10/25/2024~Mastery EXP Loss Fixed~Character Slot Bug Fixes~Database Optimization
 1.2.7 Update | 10/22/2024~Movie Pack #3~Racial States~Character Creation~Quick Selection~Much More
 ~
-www.youtube.com/watch?v=l2gx7w7KRC4~Dev Blog, Patch 1.2.9 & Quick Selection - August 2025~August 2025 Blog.png
-www.youtube.com/watch?v=v2GSgXkiLaQ~Melee Heavy Hits & Shoulder Camera (Combat Demo 14)~Melee Demo 07.png
-www.youtube.com/watch?v=RaoWh46aF_Y~Dev Blog, Combat Update & Patches - July 2025~July 2025 Blog.png
+www.youtube.com/watch?v=dH4jprU2G-c~Huge Changes to Melee Combat in Minecraft (Combat Demo 22)~Melee Demo 09.png
+www.youtube.com/watch?v=4BDyqATA8g8~Special Beam Cannon in Minecraft (Combat Demo 21)~Ki Demo 10.png
+www.youtube.com/watch?v=vXghDVabMeQ~What happens when Ki Attacks Explode? (Combat Demo 20)~Ki Demo 09.png
+www.youtube.com/watch?v=PkqvkW7U_q4~I made a DBZ Ki Attack Creator (Combat Demo 19)~Ki Demo 08.png
+www.youtube.com/watch?v=uWrQ8sqVBEo~DBZ Style Combat in Minecraft (Combat Demo 15)~Melee Demo 08.png
 www.youtube.com/watch?v=z0w2fWIYL-w~This Skill Tree Will Change Everything! Dragon Block Apollo~Skill Tree 01.png
-www.youtube.com/watch?v=DO4_QZZYFhc~DBZ Style Ki Blasts in Minecraft (Combat Demo 12)~Ki Demo 04.png
-www.youtube.com/watch?v=sZfw2t5s9pI~Checkout this Getting Started Guide!
+www.youtube.com/watch?v=sZfw2t5s9pI~Checkout this Getting Started Guide!~Getting Started.png
 www.youtube.com/watch?v=zPO0ofYRQ3A~Stat Proposal v2, A Refined Take (Combat Demo 08)~Stat Changes 02.png
-www.youtube.com/playlist?list=PLasZ_Xsb3mrnTGlWnpvpBEYfBx4dUIcAC~Video How To / Guides
+www.youtube.com/playlist?list=PLasZ_Xsb3mrnTGlWnpvpBEYfBx4dUIcAC~Video How To / Guides~How To Guides.png
