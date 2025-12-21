@@ -1,6 +1,7 @@
 v1.2.9.b58
 ~
-1.2.9 Patch | 12/17/2025~Sky Boxes~Global Chat~New Player List~Quick Selection Fast Ascend~Bank Shift Click~CC Gradient Hairs~Recovery Item Restock Button~New Mall Stores (Namek, Rocky, Nether)
+1.2.9 Patch | 12/20/2025~Sky Boxes~Global Chat~New Player List~Quick Selection Fast Ascend~Bank Shift Click~CC Gradient Hairs~Recovery Item Restock Button~New Mall Stores (Namek, Rocky, Nether)
+Jolly 2025 | 12/20/2025~Jolly 2025 Event! Check the News Menu or Discord for details!
 SpookFest 2025 | 10/29/2025~Spook Fest 2025 Event! Check the News Menu or Discord for details!
 Build #57 | 08/22/2025~Fix for Character Creation Stat Loss (Required)
 Build #56 | 08/11/2025~Character Creation Stat Loss Fix~Potential Server Wide Transformation Fix~General Fixes & CleanUp

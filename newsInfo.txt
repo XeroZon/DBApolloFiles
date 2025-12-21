@@ -1,3 +1,30 @@
+Jolly 2025 (Event)
+ (December 20th, 2024)
+- 25% TP Boost
+- 25% Store Sale
+- Spook Candy Jack-o-Pot
+- Spook Challengers (1s-6s)
+- Spook Weekly Kit
+- Spook GiftBox
+- Daily Missions Bonus
+- Spook Crate
+- x3 Cosmetic T-Shirts
+- Spook Rank Returns
+  - Demi-God+ Perks, Spook Weekly Kit, and Spook Particles
+
+1.2.9 - Patch
+ (December 20th, 2025)
+- Sky Boxes, Over 20 Unique across every Location
+- Global Chat
+- New Mall Stores (Namek, Rocky, and Nether)
+- New Player List (Tab)
+- Character Creation Gradient Hairs
+- Quick Selection Fast Ascend
+- Recovery Item Restock Button
+- Bank Shift Click
+Full Change-Log can be found here:
+https://bit.ly/DBA129Patch
+
 Dev Blog, What's New in the Combat Update - November 2025
  (December 9th, 2025)
 https://youtu.be/qhCEt8tYMvQ
