@@ -5,5 +5,5 @@ Instance #1 (New York, US)~us1~104.243.33.9:25576
 Instance #2 (Dallas, US)~us2~142.202.220.131:25638
 Instance #3 (Los Angeles, US)~us3~104.234.139.45:25581
 Instance #4 (Frankfurt, DE)~eu1~185.137.94.53:25583
-Instance #5 (London, UK)~eu2~51.77.107.225:25575
+Instance #5 (London, UK)~eu2~185.137.94.136:25575
 Instance #6 (Sydney, AU)~au1~103.1.212.202:3600
