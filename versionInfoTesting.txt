@@ -1,6 +1,6 @@
 v1.2.9.b59
 ~
-Build #59 | 01/10/2026~A bunch of Misc Fixes~Fusion Bug Fixes~New Cosmetic Toggles for some Forms~
+Build #59 | 01/10/2026~A bunch of Misc Fixes~Fusion Bug Fixes~New Cosmetic Toggles for some Forms~Fixed a Memory Leak on the Main Menu
 Future Upd Ann | 12/25/2025~Future Update is starting Development~Releasing before Combat Update~Rose for All Races~Potara Fusion~Stat Cap Raise~Cell Saga PQ (New Armor)
 1.2.9 Patch | 12/20/2025~Sky Boxes~Global Chat~New Player List~Quick Selection Fast Ascend~Bank Shift Click~CC Gradient Hairs~Recovery Item Restock Button~New Mall Stores (Namek, Rocky, Nether)
 Jolly 2025 | 12/20/2025~Jolly 2025 Event! Check the News Menu or Discord for details!
