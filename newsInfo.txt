@@ -1,3 +1,12 @@
+Jolly 2025 (Event)
+ (February 17th, 2026)
+- February 17th - February 28th
+- 20% TP Boost
+- 25% Store Sale
+- Valentines System
+- Valentines Exclusive Event Shop
+- Use Command /event valentines
+
 Combat Alpha Testing New Version
  (February 2nd, 2026)
 The Combat Public Alpha Testing has got a ton of fixes since the last release, give it a look!
