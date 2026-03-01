@@ -1,5 +1,5 @@
-1.2
+1.0
 none,1-6
 1.0
-Valentines 2026,Jolly 2025
-1.25
+None,Valentines 2026
+1.0
