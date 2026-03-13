@@ -1,3 +1,8 @@
+Perfected Super Saiyan Blue - Dev log #28 [Dragon Block Apollo]
+ (March 12th, 2026)
+That's right, we're adding an Alt Form for both Ascended God Form and Primal Form for every single Race. Oh and we reworked God Ki and Primal Ki!
+https://www.youtube.com/watch?v=ARjtRvDqUbw
+
 We Added Passive Form EXP - Dev log #27
  (March 6th, 2026)
 We're adding Passive EXP to ALL Forms, checkout this Dev-Log for details and more changes to Forms
