@@ -1,3 +1,10 @@
+CurseForge Modpack Listing & Build #17
+ (May 13th, 2026)
+https://www.curseforge.com/minecraft/modpacks/dbc-apollo
+- Tons of Future Update QoL, Full Change-Log on the Discord
+- Angelica and it's dependencies are now included in all distributions of the Modpack
+- CustomNPC+ Updated
+
 What's Coming Next for Dragon Block Apollo?
  (May 8th, 2026)
 https://youtu.be/pZELPb3VEZk
