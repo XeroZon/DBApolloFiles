@@ -1,5 +1,6 @@
-v1.3.b17
+v1.3.b18
 ~
+Future Build #18 | 05/26/2026~Hair Loss Bug Fix~Menu Fixes~Fusion Camera~Stuck Charging Fix~General Stability and Polish
 CurseForge Modpack | 05/13/2026~We're on CurseForge~Angelica Performance Mod Added~Shader Support~CustomNPC+ Updated~Tons of Future Update QoL
 Future Update | 04/30/2026~Future Saga (30 Quests)~Divine Forms (All Races)~Potara Fusion~Passive Form EXP~New Kai Training~Stat Cap +10k~High-Tier Alt Forms~Kaioken Rework~Character Slot 7 & 8~Form Rebalances~DPS Focused Ki Rescale~And MUCH MORE!
 Valentines 2026 | 02/17/2026~Valentines 2026 Event! Bringing back the Valentines System and Exclusive Shop
