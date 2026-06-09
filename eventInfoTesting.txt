@@ -1,5 +1,8 @@
-1.0
-none,1-4
-1.0
-No Event,Future Release
-1.0
+Event: No Event,Future Release
+Next Event: No Event
+Last Day: 06/09/2026
+TP Multi: 1.0
+EXP Multi: 1.0
+Zeni Multi: 1.0
+Store Sale: 1.0
+Challenger: none,1-4

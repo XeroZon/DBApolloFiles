@@ -1,5 +1,7 @@
-v1.3.b15
+v1.3.1.b6
 ~
+Future Build #18 | 05/26/2026~Hair Loss Bug Fix~Menu Fixes~Fusion Camera~Stuck Charging Fix~General Stability and Polish
+CurseForge Modpack | 05/13/2026~We're on CurseForge~Angelica Performance Mod Added~Shader Support~CustomNPC+ Updated~Tons of Future Update QoL
 Future Update | 04/30/2026~Future Saga (30 Quests)~Divine Forms (All Races)~Potara Fusion~Passive Form EXP~New Kai Training~Stat Cap +10k~High-Tier Alt Forms~Kaioken Rework~Character Slot 7 & 8~Form Rebalances~DPS Focused Ki Rescale~And MUCH MORE!
 Valentines 2026 | 02/17/2026~Valentines 2026 Event! Bringing back the Valentines System and Exclusive Shop
 Build #59 | 01/10/2026~A bunch of Misc Fixes~Fusion Bug Fixes~New Cosmetic Toggles for some Forms~Fixed a Memory Leak on the Main Menu
@@ -16,6 +18,9 @@ Build #52 | 11/06/2024~Vanity Outfit ReTextures~Fusion Fixes~Global Chest Fixes
 Build #51 | 10/25/2024~Mastery EXP Loss Fixed~Character Slot Bug Fixes~Database Optimization
 1.2.7 Update | 10/22/2024~Movie Pack #3~Racial States~Character Creation~Quick Selection~Much More
 ~
+www.youtube.com/watch?v=Ymz8amwxVj0~Armor Overhaul & NEW Abilities! - Dev log #33~Dev-Log 33.png
+www.youtube.com/watch?v=KYZti7xfGyE~A Huge Stats Overhaul - Dev log #32~Dev-Log 32.png
+www.youtube.com/watch?v=pZELPb3VEZk~What's Coming Next for Dragon Block Apollo?~WhatsNext.png
 www.youtube.com/watch?v=7RRX1g7e11k~We added Super Saiyan Rosé - Dev log #31~Dev-Log 31.png
 www.youtube.com/watch?v=oZklPRzjzbU~DDR in Minecraft?? The Return of Potential Unleash - Dev log #30~Dev-Log 30.png
 www.youtube.com/watch?v=kZiXaXnFebI~We Added Potara Fusion in Minecraft - Dev log #29~Dev-Log 29.png
@@ -28,5 +33,4 @@ www.youtube.com/watch?v=dH4jprU2G-c~Huge Changes to Melee Combat in Minecraft (C
 www.youtube.com/watch?v=4BDyqATA8g8~Special Beam Cannon in Minecraft (Combat Demo 21)~Ki Demo 10.png
 www.youtube.com/watch?v=z0w2fWIYL-w~This Skill Tree Will Change Everything! Dragon Block Apollo~Skill Tree 01.png
 www.youtube.com/watch?v=sZfw2t5s9pI~Checkout this Getting Started Guide!~Getting Started.png
-www.youtube.com/watch?v=zPO0ofYRQ3A~Stat Proposal v2, A Refined Take (Combat Demo 08)~Stat Changes 02.png
 www.youtube.com/playlist?list=PLasZ_Xsb3mrnTGlWnpvpBEYfBx4dUIcAC~Video How To / Guides~How To Guides.png
