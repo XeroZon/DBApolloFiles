@@ -1,4 +1,4 @@
-Event: Test1, 06/10/2026
+Event: Test1, 06/09/2026
 Next Event: Test2, 06/11/2026
 Last Event: Future Release
 TP Multi: 1.1, 1.05
