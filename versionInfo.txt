@@ -1,5 +1,6 @@
-v1.3.b18
+v1.3.b19
 ~
+6 Year Anniversary | 07/07/2026~Celebrating 6 Years of our Remastered Release~Exclusive Event Currency~Weekly Anniversary Kit~Exclusive Event Cosmetics
 Future Build #18 | 05/26/2026~Hair Loss Bug Fix~Menu Fixes~Fusion Camera~Stuck Charging Fix~General Stability and Polish
 CurseForge Modpack | 05/13/2026~We're on CurseForge~Angelica Performance Mod Added~Shader Support~CustomNPC+ Updated~Tons of Future Update QoL
 Future Update | 04/30/2026~Future Saga (30 Quests)~Divine Forms (All Races)~Potara Fusion~Passive Form EXP~New Kai Training~Stat Cap +10k~High-Tier Alt Forms~Kaioken Rework~Character Slot 7 & 8~Form Rebalances~DPS Focused Ki Rescale~And MUCH MORE!
@@ -27,10 +28,6 @@ www.youtube.com/watch?v=kZiXaXnFebI~We Added Potara Fusion in Minecraft - Dev lo
 www.youtube.com/watch?v=ARjtRvDqUbw~Perfected Super Saiyan Blue - Dev log #28~Dev-Log 28.png
 www.youtube.com/watch?v=dGSWid9fOtE~We Added Passive Form EXP - Dev log #27~Dev-Log 27.png
 www.youtube.com/watch?v=27a3lbb5Y5Y~Kaioken is COMPLETELY Changing - Dev log #26~Dev-Log 26.png
-www.youtube.com/watch?v=YdBvezKxe3Y~Combat Alpha Testing Starts NOW~Public Testing 01.png
-www.youtube.com/watch?v=edbC6VjqH90~Future Super Saga Announcement~Future Update Announcement.png
 www.youtube.com/watch?v=dH4jprU2G-c~Huge Changes to Melee Combat in Minecraft (Combat Demo 22)~Melee Demo 09.png
-www.youtube.com/watch?v=4BDyqATA8g8~Special Beam Cannon in Minecraft (Combat Demo 21)~Ki Demo 10.png
-www.youtube.com/watch?v=z0w2fWIYL-w~This Skill Tree Will Change Everything! Dragon Block Apollo~Skill Tree 01.png
 www.youtube.com/watch?v=sZfw2t5s9pI~Checkout this Getting Started Guide!~Getting Started.png
 www.youtube.com/playlist?list=PLasZ_Xsb3mrnTGlWnpvpBEYfBx4dUIcAC~Video How To / Guides~How To Guides.png
