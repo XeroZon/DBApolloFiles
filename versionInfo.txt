@@ -1,5 +1,6 @@
-v1.3.b19
+v1.3.1.b17
 ~
+Gear-UPdate Release | 08/22/2026~Stat Overhaul~250k Stat Cap~Gear Overhaul~36 Gear Abilities~Racial Passives~12 New Ki Weapons~Scenario Quests~Cell Saga PQ (12 Quests)
 6 Year Anniversary | 07/07/2026~Celebrating 6 Years of our Remastered Release~Exclusive Event Currency~Weekly Anniversary Kit~Exclusive Event Cosmetics
 Future Build #18 | 05/26/2026~Hair Loss Bug Fix~Menu Fixes~Fusion Camera~Stuck Charging Fix~General Stability and Polish
 CurseForge Modpack | 05/13/2026~We're on CurseForge~Angelica Performance Mod Added~Shader Support~CustomNPC+ Updated~Tons of Future Update QoL
@@ -19,6 +20,7 @@ Build #52 | 11/06/2024~Vanity Outfit ReTextures~Fusion Fixes~Global Chest Fixes
 Build #51 | 10/25/2024~Mastery EXP Loss Fixed~Character Slot Bug Fixes~Database Optimization
 1.2.7 Update | 10/22/2024~Movie Pack #3~Racial States~Character Creation~Quick Selection~Much More
 ~
+www.youtube.com/watch?v=xfwXe0fXpEg~Gear-UPdate Release Date Announcement~Gear-UPdateRelease.png
 www.youtube.com/watch?v=GoK7uuZHp8I~36 New Gear Abilities - Dev log #36~Dev-Log 36.png
 www.youtube.com/watch?v=tDGySvpoVtI~12 NEW Ki Weapons and Changes to Skills - Dev log #35~Dev-Log 35.png
 www.youtube.com/watch?v=rMhLJaeWZlI~New Racial Passives Explained - Dev log #34~Dev-Log 34.png
@@ -31,6 +33,5 @@ www.youtube.com/watch?v=kZiXaXnFebI~We Added Potara Fusion in Minecraft - Dev lo
 www.youtube.com/watch?v=ARjtRvDqUbw~Perfected Super Saiyan Blue - Dev log #28~Dev-Log 28.png
 www.youtube.com/watch?v=dGSWid9fOtE~We Added Passive Form EXP - Dev log #27~Dev-Log 27.png
 www.youtube.com/watch?v=27a3lbb5Y5Y~Kaioken is COMPLETELY Changing - Dev log #26~Dev-Log 26.png
-www.youtube.com/watch?v=dH4jprU2G-c~Huge Changes to Melee Combat in Minecraft (Combat Demo 22)~Melee Demo 09.png
 www.youtube.com/watch?v=sZfw2t5s9pI~Checkout this Getting Started Guide!~Getting Started.png
 www.youtube.com/playlist?list=PLasZ_Xsb3mrnTGlWnpvpBEYfBx4dUIcAC~Video How To / Guides~How To Guides.png

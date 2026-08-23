@@ -1,3 +1,22 @@
+Gear-UPdate Release
+ (August 23rd, 2026)
+- Stats Overhaul
+- 250k Stat Cap / 600k Lv Cap
+- Armor Overhaul
+- 36 New Gear Abilities
+- Racial Passives
+- 12 New Ki Weapons
+- Cell Saga PQ (12 Quests)
+- Ki Fist and Ki Shield Changes
+- New Blacksmith Menu
+- Scenario Quests
+- New Technical Class
+- Racial State Tempo Change
+- TP, Zeni, & XP Boosters
+- Donor Rank Kit Inheritance
+- Leaderboards
+- ZTM / Digital Zeni
+
 Gear-UPdate Release Date Announcement
  (August 19th, 2026)
 Gear-UPdate releasing soon, find out more in this Video
