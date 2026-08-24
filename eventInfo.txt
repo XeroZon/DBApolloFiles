@@ -1,5 +1,5 @@
-Event: Gear-UPdate, 08/23/2026
-Next Event: Gear Event, 09/07/2026
+Event: Gear-UPdate, 09/06/2026
+Next Event: Gear Event, 09/21/2026
 Last Event: 6 Year Anniversary Release
 TP Multi: 1.25, 1.1
 EXP Multi: 1.1, 1.05
