@@ -1,8 +1,8 @@
-Event: Gear-UPdate, 09/06/2026
-Next Event: Gear Event, 09/17/2026
-Last Event: 6 Year Anniversary Release
-TP Multi: 1.25, 1.1
-EXP Multi: 1.1, 1.05
-Zeni Multi: 1.15, 1.05
-Store Sale: 1.25, 1.25
+Event: Fall 2026, 10/07/2026
+Next Event: No Event, 09/17/2026
+Last Event: Gear-UPdate
+TP Multi: 1.2, 1
+EXP Multi: 1.1, 1
+Zeni Multi: 1.15, 1
+Store Sale: 1.2, 1
 Challenger: none,1-4
